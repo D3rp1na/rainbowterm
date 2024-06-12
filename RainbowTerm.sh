@@ -1,1 +1,1 @@
-alias rt='script -q /dev/null | lolcat'
+alias rterm='script -q /dev/null | lolcat'
