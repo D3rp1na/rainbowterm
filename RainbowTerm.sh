@@ -1,1 +1,1 @@
-alias rainbow_terminal='script -q /dev/null | lolcat'
+alias rt='script -q /dev/null | lolcat'
